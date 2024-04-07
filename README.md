@@ -1,4 +1,4 @@
-#MediGate: Gateway to Confidential Healthcare Data
+# MediGate: Gateway to Confidential Healthcare Data
 
 ## Decentralized personal health record application
 
