@@ -1,3 +1,4 @@
+<img src="blockchain.png">
 # MediGate: Gateway to Confidential Healthcare Data
 
 ## Decentralized personal health record application
